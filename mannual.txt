@@ -1,0 +1,2 @@
+In the above project as you can see the diagram of leds and pushbutton, so when push button is pressed the Arduino will read HIGH,
+I have use millis function instead of delay as in delay our push button will not work anytime, and also I have use switch case instead of if and else if  
